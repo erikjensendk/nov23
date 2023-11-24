@@ -5,3 +5,5 @@ Lille tilføjelse
 Tiføjelse 2, 24. november 2023.
 
 Tilføjelse 1 til branch
+
+X2 A
