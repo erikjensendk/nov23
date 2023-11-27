@@ -6,3 +6,5 @@ xxx
 Greetings from Master
 
 Grettings from Branch
+
+New greeting from master
