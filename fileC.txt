@@ -4,6 +4,7 @@ test zzz
 
 xxx
 
+<<<<<<< Updated upstream
 Greetings from Master
 
 Grettings from Branch
@@ -11,3 +12,8 @@ Grettings from Branch
 New greeting from Master
 
 New greeting form branch B27x2
+=======
+New greeting form branch
+
+A test about stashing.
+>>>>>>> Stashed changes
