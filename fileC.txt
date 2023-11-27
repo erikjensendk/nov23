@@ -7,4 +7,4 @@ Greetings from Master
 
 Grettings from Branch
 
-New greeting from master
+New greeting from Master
