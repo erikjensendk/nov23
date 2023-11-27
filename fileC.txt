@@ -3,8 +3,11 @@ File C
 test zzz
 
 xxx
+
 Greetings from Master
 
 Grettings from Branch
 
 New greeting from Master
+
+New greeting form branch B27x2
